@@ -55,17 +55,18 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 25em) {
+
   nav li {
     display: inline-block;
-    text-align: center;
-  }
+    text-align: center;}
+
 }
 
 @media only screen and (min-width: 38em) {
   html {
     font-size: 110%;
-    line-height: 1.4;
-  }
+    line-height: 1.4;}
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -76,15 +77,11 @@ nav a:hover {
   header {
     padding-left: 1rem;
     padding-right: 1rem;
-    text-align: left;
-
-  }
+    text-align: left;}
 
   h1, nav {
     display: inline-block;
-    vertical-align: middle;
-
-  }
+    vertical-align: middle;}
 
   h1 {
     margin-bottom: 0;
